@@ -1,4 +1,3 @@
 # Reaver
-a little project of mine
-
-right now it's a simple reverse shell, planning to add more features in the future
+it's a python c&c server + reverse shell
+currently not cross-platform 
